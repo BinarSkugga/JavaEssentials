@@ -25,6 +25,10 @@
   * Elegant and object oriented, this is a life saver for any annotation processor.
 * [ronmamo/reflections](https://github.com/ronmamo/reflections)
   * I don't know why this is not in core Java yet. If you need to get multiple classes with certain annotations, this is for you. (Doesn't work on android because of compile format)
+  
+## Performance
+* [real-logic/agrona](https://github.com/real-logic/agrona)
+  * Powerful performance library for data structures.
 
 ## Parsing
 * [square/moshi](https://github.com/square/moshi)

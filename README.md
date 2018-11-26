@@ -49,3 +49,5 @@
   * Reimplementation of the python library with the same name. Very usefull for searching and auto-completion.
 * [java-native-access/jna](https://github.com/java-native-access/jna)
   * Better version of JNI.
+* [bennidi/mbassador](https://github.com/bennidi/mbassador)
+  * Real fast event-bus, use over the guava or square bus.

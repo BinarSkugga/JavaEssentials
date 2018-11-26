@@ -33,9 +33,11 @@
   * If you ever need JWTs this works like a charm.
   
 ## Misc
-* [java-native-access/jna](https://github.com/java-native-access/jna)
-  * Better version of JNI.
 * [google/flogger](https://github.com/google/flogger)
   * Logging is a big part of coding and Java made it a pain for years, here's the solution.
+* [google/tink](https://github.com/google/tink)
+  * Don't do crypto by yourself, use Tink. This thing simplfies it so much you'll feel like a hacker-man.
 * [xdrop/fuzzywuzzy](https://github.com/xdrop/fuzzywuzzy)
   * Reimplementation of the python library with the same name. Very usefull for searching and auto-completion.
+* [java-native-access/jna](https://github.com/java-native-access/jna)
+  * Better version of JNI.

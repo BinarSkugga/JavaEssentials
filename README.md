@@ -35,7 +35,7 @@
 ## Securtiy and Cryptography
 * [google/tink](https://github.com/google/tink)
   * Don't do crypto by yourself, use Tink. This thing simplfies it so much you'll feel like a hacker-man.
-* [auth0/java-jwt](https://github.com/auth0/java-jwt)
+* [jwtk/jjwt](https://github.com/jwtk/jjwt)
   * If you ever need JWTs this works like a charm.
   
 ## Misc

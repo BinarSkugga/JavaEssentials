@@ -6,7 +6,6 @@
   * Multi purpose library with implementation of utils functions and objects.
 * [apache/commons-lang](https://github.com/apache/commons-lang)
   * Same as guava but focused on strings. The Apache Commons library suite is well known and mature.
-* 
 
 ## HTTP
 
@@ -17,7 +16,6 @@
   * Load images asynchronously, handles caching and loading. This library is a charm for any android projects.
 * [undertow-io/undertow](https://github.com/undertow-io/undertow)
   * Need a simple lightweight webserver ? Undertow works in seconds and can be wrapped into a mini-jetty.
-* 
 
 ## Code Generation & Reflection
 
@@ -27,7 +25,6 @@
   * Elegant and object oriented, this is a life saver for any annotation processor.
 * [ronmamo/reflections](https://github.com/ronmamo/reflections)
   * I don't know why this is not in core Java yet. If you need to get multiple classes with certain annotations, this is for you. (Doesn't work on android because of compile format)
-*
 
 ## JSON
 * [square/moshi](https://github.com/square/moshi)
@@ -38,3 +35,5 @@
 ## Misc
 * [google/flogger](https://github.com/google/flogger)
   * Logging is a big part of coding and Java made it a pain for years, here's the solution.
+* [xdrop/fuzzywuzzy](https://github.com/xdrop/fuzzywuzzy)
+  * Reimplementation of the python library with the same name. Very usefull for searching and auto-completion.

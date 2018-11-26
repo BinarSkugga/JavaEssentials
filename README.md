@@ -33,6 +33,8 @@
   * If you ever need JWTs this works like a charm.
   
 ## Misc
+* [java-native-access/jna](https://github.com/java-native-access/jna)
+  * Better version of JNI.
 * [google/flogger](https://github.com/google/flogger)
   * Logging is a big part of coding and Java made it a pain for years, here's the solution.
 * [xdrop/fuzzywuzzy](https://github.com/xdrop/fuzzywuzzy)

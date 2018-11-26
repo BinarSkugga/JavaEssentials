@@ -26,17 +26,21 @@
 * [ronmamo/reflections](https://github.com/ronmamo/reflections)
   * I don't know why this is not in core Java yet. If you need to get multiple classes with certain annotations, this is for you. (Doesn't work on android because of compile format)
 
-## JSON
+## Parsing
 * [square/moshi](https://github.com/square/moshi)
   * Moshi is the cute version of GSON without losing any performance.
+* [jhy/jsoup](https://github.com/jhy/jsoup)
+  * Helful to parse HTML pages.
+  
+## Securtiy and Cryptography
+* [google/tink](https://github.com/google/tink)
+  * Don't do crypto by yourself, use Tink. This thing simplfies it so much you'll feel like a hacker-man.
 * [auth0/java-jwt](https://github.com/auth0/java-jwt)
   * If you ever need JWTs this works like a charm.
   
 ## Misc
 * [google/flogger](https://github.com/google/flogger)
   * Logging is a big part of coding and Java made it a pain for years, here's the solution.
-* [google/tink](https://github.com/google/tink)
-  * Don't do crypto by yourself, use Tink. This thing simplfies it so much you'll feel like a hacker-man.
 * [xdrop/fuzzywuzzy](https://github.com/xdrop/fuzzywuzzy)
   * Reimplementation of the python library with the same name. Very usefull for searching and auto-completion.
 * [java-native-access/jna](https://github.com/java-native-access/jna)

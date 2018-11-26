@@ -34,3 +34,7 @@
   * Moshi is the cute version of GSON without losing any performance.
 * [auth0/java-jwt](https://github.com/auth0/java-jwt)
   * If you ever need JWTs this works like a charm.
+  
+## Misc
+* [google/flogger](https://github.com/google/flogger)
+  * Logging is a big part of coding and Java made it a pain for years, here's the solution.

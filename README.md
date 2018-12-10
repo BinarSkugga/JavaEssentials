@@ -36,7 +36,7 @@
 * [square/moshi](https://github.com/square/moshi)
   * Moshi is the cute version of GSON without losing any performance.
 * [jhy/jsoup](https://github.com/jhy/jsoup)
-  * Helful to parse HTML pages.
+  * Helpful to parse HTML pages.
   
 ## Securtiy and Cryptography
 * [google/tink](https://github.com/google/tink)

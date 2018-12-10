@@ -31,12 +31,6 @@
   * Powerful performance library for data structures.
 * [jchambers/fast-uuid](https://github.com/jchambers/fast-uuid)
   * UUIDs in java are slow, this library speeds up parsing and generation of uuid by 14x.
-  
-<dependency>
-    <groupId>com.eatthepath</groupId>
-    <artifactId>fast-uuid</artifactId>
-    <version>0.1</version>
-</dependency>
 
 ## Parsing
 * [square/moshi](https://github.com/square/moshi)
